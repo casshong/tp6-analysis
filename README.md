@@ -6,7 +6,6 @@ ThinkPHP 6.0 源码解析
 ## 已注释文件
 
 ~~~
-sourcecode/vendor/topthink/framework/src/think/App.php
 ├─sourcecode               
 │  ├─public        
 │  │  └─index.php            
@@ -24,3 +23,4 @@ sourcecode/vendor/topthink/framework/src/think/App.php
 │                 ├─Http.php
 │                 └─App.php
 │  
+~~~
